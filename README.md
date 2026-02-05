@@ -1,16 +1,51 @@
-## Hi there 👋
+Hi 👋 I'm Rajendra
 
-<!--
-**raje787/raje787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Aspiring Cybersecurity Analyst | SOC | Web Security | Splunk | Networking
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔐 About Me
+ 🎯 Focused on Security Operations (SOC) & Threat Detection  
+ 🌐 Skilled in Web & API Security Testing  
+ 🧠 Passionate about Vulnerability Research  
+ 🚀 Constantly learning modern cyber attack techniques  
+
+
+
+ 💻 Core Skills
+ 🕵️ Web Application Penetration Testing  
+ 🔎 Vulnerability Assessment  
+ 🔐 API Security Testing  
+ 📊 SIEM Fundamentals (Splunk)  
+ 🌍 Networking Basics (TCP/IP, DNS, HTTP/S)
+
+
+
+ 🛠️ Tools
+ Security: Burp Suite | Nmap | OWASP ZAP | Wireshark | Splunk  
+ Environment: Linux | Git | Bash  
+
+
+ 📚 Currently Learning
+ ⚡ Advanced API Attacks  
+ 🔑 Authentication & Authorization Bypass  
+ 🚨 Incident Response  
+ 🧬 Threat Hunting  
+ 🐞 Bug Bounty Methodology  
+
+
+
+📂 Featured Projects
+✅ SOC Home Lab (Splunk Monitoring & Alerting)  
+✅ Network Traffic Analysis using Wireshark  
+✅ Web Application Pentesting Labs  
+✅ Vulnerability Analysis Reports  
+
+
+
+🎯 Career Goal
+To start my career as a Cybersecurity Analyst and help organizations detect threats, reduce risks, and build stronger security systems.
+
+
+
+📫 Connect With Me
+🔗 LinkedIn: [https://www.linkedin.com/in/rajendra-jatav-54288b2a2/]
