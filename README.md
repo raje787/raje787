@@ -4,6 +4,7 @@ Hi 👋 I'm Rajendra
 
 
  🔐 About Me
+ 
  🎯 Focused on Security Operations (SOC) & Threat Detection  
  🌐 Skilled in Web & API Security Testing  
  🧠 Passionate about Vulnerability Research  
@@ -12,6 +13,7 @@ Hi 👋 I'm Rajendra
 
 
  💻 Core Skills
+ 
  🕵️ Web Application Penetration Testing  
  🔎 Vulnerability Assessment  
  🔐 API Security Testing  
@@ -21,11 +23,13 @@ Hi 👋 I'm Rajendra
 
 
  🛠️ Tools
+ 
  Security: Burp Suite | Nmap | OWASP ZAP | Wireshark | Splunk  
  Environment: Linux | Git | Bash  
 
 
  📚 Currently Learning
+ 
  ⚡ Advanced API Attacks  
  🔑 Authentication & Authorization Bypass  
  🚨 Incident Response  
@@ -35,6 +39,7 @@ Hi 👋 I'm Rajendra
 
 
 📂 Featured Projects
+
 ✅ SOC Home Lab (Splunk Monitoring & Alerting)  
 ✅ Network Traffic Analysis using Wireshark  
 ✅ Web Application Pentesting Labs  
@@ -43,9 +48,11 @@ Hi 👋 I'm Rajendra
 
 
 🎯 Career Goal
+
 To start my career as a Cybersecurity Analyst and help organizations detect threats, reduce risks, and build stronger security systems.
 
 
 
 📫 Connect With Me
+
 🔗 LinkedIn: [https://www.linkedin.com/in/rajendra-jatav-54288b2a2/]
